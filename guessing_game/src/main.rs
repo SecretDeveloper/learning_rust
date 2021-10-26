@@ -37,7 +37,7 @@ fn main() {
                 break;
             }
 
-            // the : used her is to provide annotation
+            // the : used here is to provide annotation
             // information to the rest of the instructions.
             // parse() can now infer that it should use u32
             // as the target type when parsing the string guess value.
