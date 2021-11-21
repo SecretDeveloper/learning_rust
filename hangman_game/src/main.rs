@@ -107,6 +107,13 @@ fn main() {
         io::stdin().read_line(&mut secret_word).expect("Failed.");
         secret_word = secret_word.trim().to_ascii_uppercase(); // only use uppercase
 
+        // Capture hint
+        print!("Enter a hint and press [enter]:");
+        io::stdout().flush().unwrap();
+        let mut hint = String::new();
+        io::stdin().read_line(&mut hint).expect("Failed.");
+        hint = hint.trim().to_string();
+
         let mut masked_word = String::new(); // showing _ and correct guesses
         let mut guessed_letters = String::new(); // storing guessed letters
 
@@ -126,7 +133,7 @@ fn main() {
                 println!("");
                 println!("{}", GAME_OVER);
                 println!("");
-                println!("Press [enter] to play again or CTRL+C to quit.");
+                println!("Press [enter] to play again or Q to quit.");
                 io::stdin().read_line(&mut masked_word).expect("Failed.");
                 break;
             }
@@ -146,9 +153,11 @@ fn main() {
             // check if we have already won
             if masked_word.eq(&secret_word) {
                 println!("");
+                println!("{}", secret_word);
+                println!("");
                 println!("{}", YOU_WIN);
                 println!("");
-                println!("Press [enter] to play again or CTRL+C to quit.");
+                println!("Press [enter] to play again or Q to quit.");
                 io::stdin().read_line(&mut masked_word).expect("Failed.");
                 break;
             }
@@ -157,6 +166,13 @@ fn main() {
             println!("");
             println!("\t\t{}", masked_word);
             println!("");
+
+            if hint.len() > 0 {
+                // PRINT the hint
+                println!("");
+                println!("\t\t{}", hint);
+                println!("");
+            }
 
             // get guessed letter and add it to guessed_letters string.
             let mut guess = String::new();
@@ -183,6 +199,9 @@ fn main() {
             if secret_word.contains(ch) == false {
                 guess_count = guess_count + 1;
             }
+        }
+        if masked_word.trim().to_ascii_uppercase().eq("Q") {
+            break;
         }
     }
 }

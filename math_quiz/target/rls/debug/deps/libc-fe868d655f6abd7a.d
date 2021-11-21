@@ -1,0 +1,11 @@
+c:\dev\github.com\SecretDeveloper\learning_rust\math_quiz\target\rls\debug\deps\libc-fe868d655f6abd7a.rmeta: C:\Users\garyk\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.106\src\lib.rs C:\Users\garyk\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.106\src\macros.rs C:\Users\garyk\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.106\src\fixed_width_ints.rs C:\Users\garyk\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.106\src\windows\mod.rs C:\Users\garyk\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.106\src\windows\msvc\mod.rs C:\Users\garyk\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.106\src\windows\msvc\x86_64\mod.rs C:\Users\garyk\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.106\src\windows\msvc\x86_64\align.rs
+
+c:\dev\github.com\SecretDeveloper\learning_rust\math_quiz\target\rls\debug\deps\libc-fe868d655f6abd7a.d: C:\Users\garyk\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.106\src\lib.rs C:\Users\garyk\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.106\src\macros.rs C:\Users\garyk\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.106\src\fixed_width_ints.rs C:\Users\garyk\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.106\src\windows\mod.rs C:\Users\garyk\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.106\src\windows\msvc\mod.rs C:\Users\garyk\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.106\src\windows\msvc\x86_64\mod.rs C:\Users\garyk\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.106\src\windows\msvc\x86_64\align.rs
+
+C:\Users\garyk\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.106\src\lib.rs:
+C:\Users\garyk\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.106\src\macros.rs:
+C:\Users\garyk\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.106\src\fixed_width_ints.rs:
+C:\Users\garyk\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.106\src\windows\mod.rs:
+C:\Users\garyk\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.106\src\windows\msvc\mod.rs:
+C:\Users\garyk\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.106\src\windows\msvc\x86_64\mod.rs:
+C:\Users\garyk\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.106\src\windows\msvc\x86_64\align.rs:

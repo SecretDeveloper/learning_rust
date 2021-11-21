@@ -1,0 +1,11 @@
+C:\dev\github.com\SecretDeveloper\learning_rust\times_tables\target\debug\deps\libc-6f932c408c535713.rmeta: C:\Users\garyk\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.108\src\lib.rs C:\Users\garyk\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.108\src\macros.rs C:\Users\garyk\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.108\src\fixed_width_ints.rs C:\Users\garyk\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.108\src\windows\mod.rs C:\Users\garyk\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.108\src\windows\msvc\mod.rs
+
+C:\dev\github.com\SecretDeveloper\learning_rust\times_tables\target\debug\deps\liblibc-6f932c408c535713.rlib: C:\Users\garyk\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.108\src\lib.rs C:\Users\garyk\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.108\src\macros.rs C:\Users\garyk\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.108\src\fixed_width_ints.rs C:\Users\garyk\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.108\src\windows\mod.rs C:\Users\garyk\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.108\src\windows\msvc\mod.rs
+
+C:\dev\github.com\SecretDeveloper\learning_rust\times_tables\target\debug\deps\libc-6f932c408c535713.d: C:\Users\garyk\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.108\src\lib.rs C:\Users\garyk\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.108\src\macros.rs C:\Users\garyk\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.108\src\fixed_width_ints.rs C:\Users\garyk\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.108\src\windows\mod.rs C:\Users\garyk\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.108\src\windows\msvc\mod.rs
+
+C:\Users\garyk\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.108\src\lib.rs:
+C:\Users\garyk\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.108\src\macros.rs:
+C:\Users\garyk\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.108\src\fixed_width_ints.rs:
+C:\Users\garyk\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.108\src\windows\mod.rs:
+C:\Users\garyk\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.108\src\windows\msvc\mod.rs:
